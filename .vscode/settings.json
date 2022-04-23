@@ -1,0 +1,11 @@
+{
+    "jupyter.kernels.filter": [],
+    "jupyter.jupyterServerType": "local",
+    "python.formatting.provider": "yapf",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.symbol": "★",
+    "aiXcoder.showTrayIcon": true,
+    "cSpell.words": [
+        "sklearn"
+    ]
+}
